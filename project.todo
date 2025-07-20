@@ -1,0 +1,9 @@
+# ALT+D - Completed
+# ALT + C - Cancelled
+# @ - Add tags to tasks
+
+E2E_DS_Project:
+    ☐ - Create conda environment
+    ☐ - Install dependencies using req.txt
+    
+    
