@@ -10,7 +10,7 @@ project_name = 'datascience'
 
 list_of_files=[
     ".github/workflows/.gitkeep", # Deployment
-    f"src/{project_name}/__init_.py", # Packaging
+    f"src/{project_name}/__init__.py", # Packaging
     f"src/{project_name}/components.py", # Pipelines
     f"src/{project_name}/utils.py", # Generic fncts
     f"src/{project_name}/utils/common.py", # Common functionalities

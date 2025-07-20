@@ -3,7 +3,8 @@
 # @ - Add tags to tasks
 
 E2E_DS_Project:
-    ☐ - Create conda environment
-    ☐ - Install dependencies using req.txt
-    
+    ✔ - Create conda environment @done (7/20/2025, 10:50:01 AM)
+    ✔ - Install dependencies using req.txt @done (7/20/2025, 11:08:44 AM)
+    ✔ - Create template.py and Build project structure. @done (7/20/2025, 11:08:45 AM)
+    ☐ - Custom Logging Implementation
     
