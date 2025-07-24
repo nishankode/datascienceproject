@@ -82,7 +82,7 @@ def save_json(path: Path, data: dict):
         json.dump(data, f, indent=4)
 
     # Logging
-    logger.log(f"JSON file saved at {path}")
+    logger.info(f"JSON file saved at {path}")
 
 
 @ensure_annotations

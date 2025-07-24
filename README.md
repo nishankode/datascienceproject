@@ -6,7 +6,7 @@
 2. Data Validation - Validating Schema, Datatype validation, etc.
 3. Data Transformation - Feature Engineering, Data Preprocessing, etc.
 4. Model Trainer
-5. Model Evaluation
+5. Model Evaluation - MLFlow, Dagshub
 
 ## Workflows
 1. Update config.yaml
