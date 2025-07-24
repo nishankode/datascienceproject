@@ -1,4 +1,4 @@
-# End to End Data Science Project
+# End to End DS - MLOps Project
 
 ### Workflows--ML Pipeline
 
